@@ -20,7 +20,7 @@ app.post('/send-email', async (req, res) => {
 
     // Email options
     let mailOptions = {
-        from: 'mpriyad2001@gmail.com', // Sender address
+        from: 'learningthesql@gmail.com', // Sender address
         to: "priyamariadhas@gmail.com",
         subject: "Always be grateful for this beautiful life on earth",
         text: "Really good news",
